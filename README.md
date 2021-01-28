@@ -2,9 +2,12 @@
 Webservice for sharing notes
 
 
-Documentation screen from SwaggerUI:
+## Documentation screen from SwaggerUI:
+
 ![](docs_swagger_screen.PNG)
 
+
+## Answers
 a.	What is required for running the project?
 
 For running the project we need Java and NPMJS, nodeJS
